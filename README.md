@@ -3,8 +3,6 @@
 
 This project is an interactive chatbot built with **Streamlit**, powered by **LLaMA-2** and **LangChain**. It allows users to ask questions based on the content of local PDF documents and get intelligent responses using retrieval-augmented generation (RAG).
 
-> ⚡ Ask anything related to the content in your PDF files. Useful for personal assistants, document Q&A, or domain-specific bots (e.g., health, law, research).
-
 ---
 
 ## Features
