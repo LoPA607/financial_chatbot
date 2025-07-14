@@ -1,0 +1,17 @@
+langchain
+langchain-community
+torch
+ctransformers
+accelerate
+#bitsandbytes
+transformers
+sentence_transformers
+streamlit
+streamlit_chat
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
+packaging>=23.2,<25
+pypdf
+python-dotenv
